@@ -1,8 +1,13 @@
+
 *{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 19px;
+    font-weight: 595;
 }
+
 #main{
     width: 100%;
     min-height: 100vh;
@@ -48,7 +53,8 @@
     background-color: bisque;
     outline: 0;
     color: rgb(51, 0, 62);
-    font-size: 14px;
+    font-size: 18px;
+    font-weight: 600;
 }
 
 
